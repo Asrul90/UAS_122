@@ -153,7 +153,7 @@ namespace UAS_122
 }
 
 
-// 2. berdasrkan studi kasus di atas ada beberapa algoritma yang saya gunakan adalah liner search dan Binary Serach 
+// 2. berdasrkan studi kasus di atas ada beberapa algoritma yang saya gunakan adalah class node dan queue 
 // 3. Stack atau Tumpukan adalah suatu struktur data yang terbentuk dari barisan hingga yang terurut dari satuan data. Pada Stack, penambahan dan penghapusan elemennya hanya dapat
 //    dilakukan pada satu posisi, yaitu posisi akhir stack. Posisi ini disebut Puncak atau Top dari stack.
 // 4. Algoritma Queue merupakan struktur data dimana satu data dapat ditambahkan di akhir disebut "FRONT" dan data dihapus dari yang paliang terakhir disebut "REAR"
