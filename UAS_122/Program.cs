@@ -152,7 +152,7 @@ namespace UAS_122
 
 }
 
-
+//JAWABAN ESSAY
 // 2. berdasrkan studi kasus di atas ada beberapa algoritma yang saya gunakan adalah class node dan queue 
 // 3. Stack atau Tumpukan adalah suatu struktur data yang terbentuk dari barisan hingga yang terurut dari satuan data. Pada Stack, penambahan dan penghapusan elemennya hanya dapat
 //    dilakukan pada satu posisi, yaitu posisi akhir stack. Posisi ini disebut Puncak atau Top dari stack.
